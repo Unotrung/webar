@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eyeglass
+* source:	https://sketchfab.com/3d-models/eyeglass-91892daf06e04429be3b8f9c63e770ad
+* author:	mralo (https://sketchfab.com/mralo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eyeglass" (https://sketchfab.com/3d-models/eyeglass-91892daf06e04429be3b8f9c63e770ad) by mralo (https://sketchfab.com/mralo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
